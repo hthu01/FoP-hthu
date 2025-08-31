@@ -15,7 +15,7 @@ namespace Exrcises_03
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.InputEncoding = System.Text.Encoding.UTF8;
-            //game_engine();
+            game_engine();
             Ex02();
         }
 
